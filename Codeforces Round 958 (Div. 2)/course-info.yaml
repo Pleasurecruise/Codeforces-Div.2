@@ -1,0 +1,17 @@
+type: codeforces
+title: Codeforces Round 958 (Div. 2)
+language: English
+summary: |-
+  A. Split the Multiset
+  B. Make Majority
+  C. Increasing Sequence with Fixed OR
+  D. The Omnipotent Monster Killer
+  E. Range Minimum Sum
+  F. Heartbeat
+programming_language: C/C++
+programming_language_version: 11
+content:
+  - Problems
+end_date_time: 1721061300.000000000
+program_type_id: 43
+mode: Study
